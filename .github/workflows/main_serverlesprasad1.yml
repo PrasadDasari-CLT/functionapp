@@ -41,4 +41,4 @@ jobs:
           app-name: 'serverlesprasad1'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D8C46029F7F4D00B24CBCC0999CB65A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0FC52863859413787FB734AEA496CB6 }}
